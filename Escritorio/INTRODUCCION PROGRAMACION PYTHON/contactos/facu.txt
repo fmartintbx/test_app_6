@@ -1,0 +1,3 @@
+Nombre: facu
+Telefono: 45646
+Categoria: 1
